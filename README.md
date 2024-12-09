@@ -1,2 +1,2 @@
 # PHR-DIFF
-The official implement of the paper "" (AAAI2025)
+The official implementation of the paper "" (AAAI2025)
